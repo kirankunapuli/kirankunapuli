@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Data Scientist at ADP, Hyderabad | Kaggle 2x Expert
 
-I have around 7.5 years of total IT experience with 5+ years of experience as Data Scientist, currently working at ADP, Hyderabad.
+I have around 8 years of total IT experience with 5+ years of experience as Data Scientist, currently working at ADP, Hyderabad.
 
 - 2019 - Present: Data Scientist at ADP, Hyderabad.
 
