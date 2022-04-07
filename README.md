@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Data Scientist at ADP, Hyderabad | Kaggle 2x Expert
+### Principal Data Scientist at Tokopedia, Hyderabad | Kaggle 2x Expert
 
-I have around 8 years of total IT experience with 5+ years of experience as Data Scientist, currently working at ADP, Hyderabad.
+I have 8+ years of total IT experience with 5+ years of experience as Data Scientist, currently working at Tokopedia, Hyderabad.
 
-- 2019 - Present: Data Scientist at ADP, Hyderabad.
+- 2021 - Present: Principal Data Scientist at Tokopedia, Hyderabad.
+
+- 2019 - 2021: Data Scientist at ADP, Hyderabad.
 
 - 2017 - 2019: Data Scientist at DBS Bank, Hyderabad.
 
@@ -33,9 +35,9 @@ Ranked among top 50 in user rankings on Analytics Vidhya. Best rank 35 out of 8,
 
 ### About me
 
-- 🔭 I’m currently working on training and deploying multi-lingual text classification models.
+- 🔭 I’m currently working on training and deploying real-time ranking and bidding models.
 
-- 🌱 I’m currently learning AWS services and about how to deploy a model using AWS.
+- 🌱 I’m currently learning GCP services and about how to deploy a model using GCP.
 
 - 👯 I’m looking to collaborate on interesting ML hackathons.
 
