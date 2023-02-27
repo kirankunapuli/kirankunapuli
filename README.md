@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Principal Data Scientist at Tokopedia, Hyderabad | Kaggle 2x Expert
 
-I have 8+ years of total IT experience with 5+ years of experience as Data Scientist, currently working at Tokopedia, Hyderabad.
+I have 9+ years of total IT experience with 6+ years of experience as Data Scientist, currently working at Tokopedia, Hyderabad.
 
 - 2021 - Present: Principal Data Scientist at Tokopedia, Hyderabad.
 
@@ -48,13 +48,13 @@ Ranked among top 50 in user rankings on Analytics Vidhya. Best rank 35 out of 8,
 
 ### 📫 Connect with me:
 
-[<img align="left" alt="Website" width="30px" target="_blank" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn" width="30px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="30px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Kaggle" width="30px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
-[<img align="left" alt="Medium" width="30px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][medium]
-[<img align="left" alt="Youtube" width="30px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Twitch" width="30px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
+[<img align="left" alt="Website" width="30px" target="_blank" src="https://cdn.simpleicons.org/github" />][website]
+[<img align="left" alt="LinkedIn" width="30px" target="_blank" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
+[<img align="left" alt="Twitter" width="30px" target="_blank" src="https://cdn.simpleicons.org/twitter" />][twitter]
+[<img align="left" alt="Kaggle" width="30px" target="_blank" src="https://cdn.simpleicons.org/kaggle" />][kaggle]
+[<img align="left" alt="Medium" width="30px" target="_blank" src="https://cdn.simpleicons.org/instagram" />][medium]
+[<img align="left" alt="Youtube" width="30px" target="_blank" src="https://cdn.simpleicons.org/youtube" />][youtube]
+[<img align="left" alt="Twitch" width="30px" target="_blank" src="https://cdn.simpleicons.org/twitch" />][twitch]
     
 <br>
 <br>
