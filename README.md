@@ -50,7 +50,7 @@ Ranked among the top 50 in user rankings on Analytics Vidhya. Best rank 35 out o
 
 [<img align="left" alt="Website" width="30px" target="_blank" src="https://cdn.simpleicons.org/github" />][website]
 [<img align="left" alt="LinkedIn" width="30px" target="_blank" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
-[<img align="left" alt="Twitter" width="30px" target="_blank" src="https://cdn.simpleicons.org/twitter" />][twitter/X]
+[<img align="left" alt="Twitter" width="30px" target="_blank" src="https://cdn.simpleicons.org/twitter" />][twitter]
 [<img align="left" alt="Kaggle" width="30px" target="_blank" src="https://cdn.simpleicons.org/kaggle" />][kaggle]
 [<img align="left" alt="Medium" width="30px" target="_blank" src="https://cdn.simpleicons.org/instagram" />][medium]
 [<img align="left" alt="Youtube" width="30px" target="_blank" src="https://cdn.simpleicons.org/youtube" />][youtube]
