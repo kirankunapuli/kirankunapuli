@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Principal Data Scientist at Tokopedia, Hyderabad | Kaggle 2x Expert
+### Senior Lead Data Scientist at Tokopedia, Hyderabad | Kaggle 2x Expert
 
-I have 9+ years of total IT experience with 6+ years of experience as Data Scientist, currently working at Tokopedia, Hyderabad.
+I have 10+ years of total IT experience with 7+ years of experience as a Data Scientist, currently working at Tokopedia, Hyderabad.
 
-- 2021 - Present: Principal Data Scientist at Tokopedia, Hyderabad.
+- 2021 - Present: Senior Lead Data Scientist at Tokopedia, Hyderabad.
 
 - 2019 - 2021: Data Scientist at ADP, Hyderabad.
 
@@ -31,13 +31,13 @@ Kaggle Competitions Expert. Top 1%. Best rank 557 out of 130,851. 1 Silver and 5
 
 Kaggle Kernels Expert. Top 1%. Best rank 247 out of 101,411. 1 Gold, 1 Silver and 3 Bronze medals.
 
-Ranked among top 50 in user rankings on Analytics Vidhya. Best rank 35 out of 8,711.
+Ranked among the top 50 in user rankings on Analytics Vidhya. Best rank 35 out of 8,711.
 
 ### About me
 
 - 🔭 I’m currently working on training and deploying real-time ranking and bidding models.
 
-- 🌱 I’m currently learning GCP services and about how to deploy a model using GCP.
+- 🌱 I’m currently learning how to apply LLM techniques and deploy them in production for a business use case.
 
 - 👯 I’m looking to collaborate on interesting ML hackathons.
 
@@ -50,7 +50,7 @@ Ranked among top 50 in user rankings on Analytics Vidhya. Best rank 35 out of 8,
 
 [<img align="left" alt="Website" width="30px" target="_blank" src="https://cdn.simpleicons.org/github" />][website]
 [<img align="left" alt="LinkedIn" width="30px" target="_blank" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
-[<img align="left" alt="Twitter" width="30px" target="_blank" src="https://cdn.simpleicons.org/twitter" />][twitter]
+[<img align="left" alt="Twitter" width="30px" target="_blank" src="https://cdn.simpleicons.org/twitter" />][twitter/X]
 [<img align="left" alt="Kaggle" width="30px" target="_blank" src="https://cdn.simpleicons.org/kaggle" />][kaggle]
 [<img align="left" alt="Medium" width="30px" target="_blank" src="https://cdn.simpleicons.org/instagram" />][medium]
 [<img align="left" alt="Youtube" width="30px" target="_blank" src="https://cdn.simpleicons.org/youtube" />][youtube]
