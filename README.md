@@ -37,9 +37,9 @@ Ranked among the top 50 in user rankings on Analytics Vidhya. Best rank 35 out o
 
 - 🔭 I’m currently working on training and deploying real-time ranking and bidding models.
 
-- 🌱 I’m currently learning how to apply LLM techniques and deploy them in production for a business use case.
+- 🌱 I’m currently learning how to fine-tune LLMs and deploy RAG based LLM applications in production.
 
-- 👯 I’m looking to collaborate on interesting ML hackathons.
+- 👯 I’m looking to collaborate on interesting ML hackathons and to create Indic datasets and fine-tune Indic LLMs.
 
 - 💬 Ask me about PC gaming, electronics, gadgets and technology.
 
@@ -48,13 +48,12 @@ Ranked among the top 50 in user rankings on Analytics Vidhya. Best rank 35 out o
 
 ### 📫 Connect with me:
 
-[<img align="left" alt="Website" width="30px" target="_blank" src="https://cdn.simpleicons.org/github" />][website]
-[<img align="left" alt="LinkedIn" width="30px" target="_blank" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
-[<img align="left" alt="Twitter" width="30px" target="_blank" src="https://cdn.simpleicons.org/twitter" />][twitter]
-[<img align="left" alt="Kaggle" width="30px" target="_blank" src="https://cdn.simpleicons.org/kaggle" />][kaggle]
-[<img align="left" alt="Medium" width="30px" target="_blank" src="https://cdn.simpleicons.org/instagram" />][medium]
-[<img align="left" alt="Youtube" width="30px" target="_blank" src="https://cdn.simpleicons.org/youtube" />][youtube]
-[<img align="left" alt="Twitch" width="30px" target="_blank" src="https://cdn.simpleicons.org/twitch" />][twitch]
+[<img align="left" alt="Website" width="30px" target="_blank" src="https://cdn.simpleicons.org/github/_/eee" />][website]
+[<img align="left" alt="LinkedIn" width="30px" target="_blank" src="https://cdn.simpleicons.org/linkedin/_" />][linkedin]
+[<img align="left" alt="Twitter" width="30px" target="_blank" src="https://cdn.simpleicons.org/x/_/eee" />][X]
+[<img align="left" alt="Kaggle" width="30px" target="_blank" src="https://cdn.simpleicons.org/kaggle/_" />][kaggle]
+[<img align="left" alt="Medium" width="30px" target="_blank" src="https://cdn.simpleicons.org/instagram/_" />][medium]
+[<img align="left" alt="Youtube" width="30px" target="_blank" src="https://cdn.simpleicons.org/youtube/_" />][youtube]
     
 <br>
 <br>
@@ -63,12 +62,12 @@ Ranked among the top 50 in user rankings on Analytics Vidhya. Best rank 35 out o
 
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+![](https://hit.yhype.me/github/profile?user_id=11577436)
 
 
 [website]: https://kirankunapuli.github.io/
-[twitter]: https://twitter.com/KiranKunapuli
 [linkedin]: https://in.linkedin.com/in/kirankunapuli
+[X]: https://twitter.com/KiranKunapuli
 [kaggle]: https://www.kaggle.com/kirankunapuli
 [medium]: https://medium.com/@kirankunapuli
 [youtube]: https://www.youtube.com/c/KiranKunapuli/
-[twitch]: https://www.twitch.tv/narik_kvsk
