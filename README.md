@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Senior Lead Data Scientist at Tokopedia, Hyderabad | Kaggle 2x Expert
+### Applied AI ML Lead at JPMorgan Chase, Hyderabad | Kaggle 2x Expert
 
-I have 10+ years of total IT experience with 7+ years of experience as a Data Scientist, currently working at Tokopedia, Hyderabad.
+I have 11+ years of total IT experience with 8+ years of experience as a Data Scientist, currently working at JPMorgan Chase, Hyderabad.
 
-- 2021 - Present: Senior Lead Data Scientist at Tokopedia, Hyderabad.
+- 2024 - Present: Applied AI ML Lead at JPMorgan Chase, Hyderabad.
+
+- 2021 - 2024: Senior Lead Data Scientist at Tokopedia, Hyderabad.
 
 - 2019 - 2021: Data Scientist at ADP, Hyderabad.
 
@@ -37,7 +39,7 @@ Ranked among the top 50 in user rankings on Analytics Vidhya. Best rank 35 out o
 
 - 🔭 I’m currently working on training and deploying real-time ranking and bidding models.
 
-- 🌱 I’m currently learning how to fine-tune LLMs and deploy RAG based LLM applications in production.
+- 🌱 I’m currently learning how to fine-tune LLMs, develop RAG based systems and deploy agentic AI based LLM applications in production.
 
 - 👯 I’m looking to collaborate on interesting ML hackathons and to create Indic datasets and fine-tune Indic LLMs.
 
@@ -49,10 +51,10 @@ Ranked among the top 50 in user rankings on Analytics Vidhya. Best rank 35 out o
 ### 📫 Connect with me:
 
 [<img align="left" alt="Website" width="30px" target="_blank" src="https://cdn.simpleicons.org/github/_/eee" />][website]
-[<img align="left" alt="LinkedIn" width="30px" target="_blank" src="https://cdn.simpleicons.org/linkedin/_" />][linkedin]
+[<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/linkedin.png" />][linkedin]
 [<img align="left" alt="Twitter" width="30px" target="_blank" src="https://cdn.simpleicons.org/x/_/eee" />][X]
 [<img align="left" alt="Kaggle" width="30px" target="_blank" src="https://cdn.simpleicons.org/kaggle/_" />][kaggle]
-[<img align="left" alt="Medium" width="30px" target="_blank" src="https://cdn.simpleicons.org/instagram/_" />][medium]
+[<img align="left" alt="Medium" width="30px" src="https://img.icons8.com/color/48/medium-logo.png" />][medium]
 [<img align="left" alt="Youtube" width="30px" target="_blank" src="https://cdn.simpleicons.org/youtube/_" />][youtube]
     
 <br>
