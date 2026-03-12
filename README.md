@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Applied AI ML Lead at JPMorgan Chase, Hyderabad | Kaggle 2x Expert
+### Applied AI ML Lead, Vice President at JPMorgan Chase, Hyderabad
 
-I have 11+ years of total IT experience with 8+ years of experience as a Data Scientist, currently working at JPMorgan Chase, Hyderabad.
+I have 13+ years of total IT experience with 10+ years of experience as a Data Scientist, currently working at JPMorgan Chase, Hyderabad.
 
-- 2024 - Present: Applied AI ML Lead at JPMorgan Chase, Hyderabad.
+- 2024 - Present: Applied AI ML Lead, Vice President at JPMorgan Chase, Hyderabad.
 
 - 2021 - 2024: Senior Lead Data Scientist at Tokopedia, Hyderabad.
 
